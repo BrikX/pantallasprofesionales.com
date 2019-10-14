@@ -497,10 +497,10 @@
       <div class="col-md-5 col-xs-12 infoFooter">
         <h2 class="title"><span>Contacto</span></h2>      
         <ul class="datos">
-          <li><span><img src="img/icono-tel00.png" class="img-responsive" /></span> <span>0810 220 0015</span></li>
-          <li><span><img src="img/icono-whats00b.png" class="img-responsive" /></span> <span>+54911 3439 7454</span></li>
-          <li><span><img src="img/icono-mail00.png" class="img-responsive" /></span> <a href="mailto:info@pantallasprofesionales.com">info@pantallasprofesionales.com</a></li>
-          <li><span><img src="img/icono-dire00.png" class="img-responsive" /></span> <span>B&aacute;ez 345 - C.A.B.A.</span></li>
+          <li><span><img src="img/icono-tel00.png" class="img-responsive" /></span> <span>0810 555 1111</span></li>
+          <li><span><img src="img/icono-whats00b.png" class="img-responsive" /></span> <span>+54911 1111 2222</span></li>
+          <li><span><img src="img/icono-mail00.png" class="img-responsive" /></span> <a href="mailto:mail@pantallasprofesionales.com">info@pantallasprofesionales.com</a></li>
+          <li><span><img src="img/icono-dire00.png" class="img-responsive" /></span> <span>Nombre 111 - C.A.B.A.</span></li>
         </ul>
         <div class="social-icons">
           <ul class="footersociallinks">
